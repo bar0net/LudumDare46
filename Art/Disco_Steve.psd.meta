@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 02296af6b0b353344b23ab35017c09c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3693889170292202764
+    second: Lilac_Rocker_0
+  - first:
+      213: 7703934768494495439
+    second: Lilac_Rocker_1
+  - first:
+      213: -2113265790550176556
+    second: Lilac_Rocker_2
+  - first:
+      213: -483451110788754745
+    second: Lilac_Rocker_3
+  - first:
+      213: -9051640111800026536
+    second: Lilac_Rocker_4
+  - first:
+      213: -5016462735571851117
+    second: Lilac_Rocker_5
+  - first:
+      213: -5679906197695066375
+    second: Lilac_Rocker_6
+  - first:
+      213: 70452208065556954
+    second: Lilac_Rocker_7
+  - first:
+      213: -971294460920867844
+    second: Lilac_Rocker_8
+  - first:
+      213: 1743118767945745515
+    second: Lilac_Rocker_9
+  - first:
+      213: -4004735522794262961
+    second: Lilac_Rocker_10
+  - first:
+      213: 1752219746866686393
+    second: Lilac_Rocker_11
+  - first:
+      213: 7931242536877339345
+    second: Lilac_Rocker_0
+  - first:
+      213: -5114437988737872963
+    second: Lilac_Rocker_1
+  - first:
+      213: -6079712052772508541
+    second: Lilac_Rocker_2
+  - first:
+      213: 6783579062871374143
+    second: Lilac_Rocker_3
+  - first:
+      213: -9175291045732432476
+    second: Lilac_Rocker_4
+  - first:
+      213: -4929249183298113579
+    second: Lilac_Rocker_5
+  - first:
+      213: 6803502583546425156
+    second: Lilac_Rocker_6
+  - first:
+      213: -3437723787415189968
+    second: Lilac_Rocker_7
+  - first:
+      213: -3307089878289962089
+    second: Lilac_Rocker_8
+  - first:
+      213: 2355540497555200060
+    second: Lilac_Rocker_9
+  - first:
+      213: -6491367058078190841
+    second: Lilac_Rocker_10
+  - first:
+      213: 6677601109378664834
+    second: Lilac_Rocker_11
+  - first:
+      213: -3350964061957160274
+    second: Lilac_Rocker_12
+  - first:
+      213: -2412876349640951416
+    second: Lilac_Rocker_13
+  - first:
+      213: 7161273066704681249
+    second: Lilac_Rocker_14
+  - first:
+      213: 3119451387498892542
+    second: Lilac_Rocker_15
+  - first:
+      213: 1680193501137827537
+    second: Lilac_Rocker_16
+  - first:
+      213: -4284687737220991790
+    second: Lilac_Rocker_17
+  - first:
+      213: -7503483076336776804
+    second: Lilac_Rocker_18
+  - first:
+      213: 5823595062016592864
+    second: Lilac_Rocker_19
+  - first:
+      213: -2756937107358257608
+    second: Lilac_Rocker_20
+  - first:
+      213: 5912245757751871796
+    second: Lilac_Rocker_21
+  - first:
+      213: -3549607653733788601
+    second: Lilac_Rocker_22
+  - first:
+      213: 2142235505238832408
+    second: Lilac_Rocker_23
+  - first:
+      213: -9084370654933436577
+    second: Disco_Steve_0
+  - first:
+      213: -4651896053017692299
+    second: Disco_Steve_1
+  - first:
+      213: -1380429634987152269
+    second: Disco_Steve_2
+  - first:
+      213: 5094183782027682494
+    second: Disco_Steve_3
+  - first:
+      213: -953658991974308711
+    second: Disco_Steve_4
+  - first:
+      213: 5538192903463973876
+    second: Disco_Steve_5
+  - first:
+      213: 7594812801333733920
+    second: Disco_Steve_6
+  - first:
+      213: 2137094945453913530
+    second: Disco_Steve_7
+  - first:
+      213: 624057362490660214
+    second: Disco_Steve_8
+  - first:
+      213: -5300703467413113314
+    second: Disco_Steve_9
+  - first:
+      213: 5974598759381742468
+    second: Disco_Steve_10
+  - first:
+      213: -2950376329950537965
+    second: Disco_Steve_11
+  - first:
+      213: -2532807190549531443
+    second: Disco_Steve_12
+  - first:
+      213: -5462837755039314869
+    second: Disco_Steve_13
+  - first:
+      213: 9092103336792535722
+    second: Disco_Steve_14
+  - first:
+      213: -9063456340285051486
+    second: Disco_Steve_15
+  - first:
+      213: 869007505978433639
+    second: Disco_Steve_16
+  - first:
+      213: 5981617753783337329
+    second: Disco_Steve_17
+  - first:
+      213: -1437056816667475747
+    second: Disco_Steve_18
+  - first:
+      213: 1249654301076820872
+    second: Disco_Steve_19
+  - first:
+      213: 7590024136675604909
+    second: Disco_Steve_20
+  - first:
+      213: 1216487110712518460
+    second: Disco_Steve_21
+  - first:
+      213: -540452279682728499
+    second: Disco_Steve_22
+  - first:
+      213: 6703586586599183928
+    second: Disco_Steve_23
+  - first:
+      213: -3405444892435720218
+    second: Disco_Steve_0
+  - first:
+      213: 524225578095289772
+    second: Disco_Steve_1
+  - first:
+      213: -2689914508611255123
+    second: Disco_Steve_2
+  - first:
+      213: -3298906139876479626
+    second: Disco_Steve_3
+  - first:
+      213: -3389933984508620461
+    second: Disco_Steve_4
+  - first:
+      213: -3400951767733549079
+    second: Disco_Steve_5
+  - first:
+      213: -8458668778970536289
+    second: Disco_Steve_6
+  - first:
+      213: 6980735667164122204
+    second: Disco_Steve_7
+  - first:
+      213: -940021570126235031
+    second: Disco_Steve_8
+  - first:
+      213: 678737423735196290
+    second: Disco_Steve_9
+  - first:
+      213: -1732114283138303405
+    second: Disco_Steve_10
+  - first:
+      213: 8078226652936958276
+    second: Disco_Steve_11
+  - first:
+      213: -8217292862170024935
+    second: Disco_Steve_12
+  - first:
+      213: 5621199499528651478
+    second: Disco_Steve_13
+  - first:
+      213: 2035305642619800987
+    second: Disco_Steve_14
+  - first:
+      213: -1487781878688229383
+    second: Disco_Steve_15
+  - first:
+      213: 1662657491964408010
+    second: Disco_Steve_16
+  - first:
+      213: 7749040672239852370
+    second: Disco_Steve_17
+  - first:
+      213: 3883168442153740443
+    second: Disco_Steve_18
+  - first:
+      213: -883484619603276002
+    second: Disco_Steve_19
+  - first:
+      213: -2695946997565482242
+    second: Disco_Steve_20
+  - first:
+      213: 4078702103245713413
+    second: Disco_Steve_21
+  - first:
+      213: 4796815543358890012
+    second: Disco_Steve_22
+  - first:
+      213: -8643735125300511316
+    second: Disco_Steve_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Disco_Steve_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e75334c9ed6db0d0800000000000000
+      internalID: -3405444892435720218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52b84c26c664700800000000000000
+      internalID: 524225578095289772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_2
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da48e0691018baad0800000000000000
+      internalID: -2689914508611255123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dae49185ee732d0800000000000000
+      internalID: -3298906139876479626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351d651700984f0d0800000000000000
+      internalID: -3389933984508620461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_5
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e74102e2646dc0d0800000000000000
+      internalID: -3400951767733549079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9626ccbf85cc9a80800000000000000
+      internalID: -8458668778970536289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_7
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 720
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c87309a1e80e060800000000000000
+      internalID: 6980735667164122204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96abb67cc5f54f2f0800000000000000
+      internalID: -940021570126235031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_9
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a008d371c5b6900800000000000000
+      internalID: 678737423735196290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a39239c3b46f7e0800000000000000
+      internalID: -1732114283138303405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_11
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 441766f2750ab1070800000000000000
+      internalID: 8078226652936958276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914b00fcdaf46fd80800000000000000
+      internalID: -8217292862170024935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d242059923820e40800000000000000
+      internalID: 5621199499528651478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d83bdc2bbde3c10800000000000000
+      internalID: 2035305642619800987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_15
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 360
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7568193465a5be0800000000000000
+      internalID: -1487781878688229383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03ea70e22f21710800000000000000
+      internalID: 1662657491964408010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b19ea6f6f1a8b60800000000000000
+      internalID: 7749040672239852370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_18
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98a49dcf19c3e530800000000000000
+      internalID: 3883168442153740443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Disco_Steve_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 240
+        height: 360
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f860c5b6b3db3f0800000000000000
+      internalID: -883484619603276002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
